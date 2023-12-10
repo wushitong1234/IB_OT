@@ -7,7 +7,7 @@ x4 = x(:,4); x4_a = min(x4); x4_b = max(x4);
 %2-4.5; 
 %1-7; 
 %0-2.5; 
-%length=0.5;
+
 step = 1;
 n1 = ceil((8-4)/step); 
 n2 = ceil((4.5-2)/step); 
