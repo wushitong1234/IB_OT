@@ -5,4 +5,5 @@ The Generalized Alternating Sinkhorn (GAS) algorithm is presented in "Informatio
 
 # The Code for the OT type algorithm
 https://github.com/wushitong1234/CommOT.git (AS in CommOT) 
+
 https://github.com/wushitong1234/Constrained-BA.git (CBA)
