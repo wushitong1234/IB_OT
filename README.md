@@ -10,4 +10,5 @@ https://github.com/wushitong1234/Constrained-BA.git (CBA)
 
 # The Code detail
 IB_OT for the OT version, similar to RD.
+
 CBA_IB for the CBA version, similar to RD. 
